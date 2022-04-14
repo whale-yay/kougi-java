@@ -1,4 +1,5 @@
-.*
-*.class
+!docker-compose.yml
+!Dockerfile
+!README.md
 !.gitignore
-src
+*.*
